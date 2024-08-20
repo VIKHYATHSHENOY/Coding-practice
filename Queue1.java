@@ -20,7 +20,7 @@ public class Queue1{
         return;
       }
       rear=rear+1;
-      arr[rear]=dat;
+      arr[rear]=data;
     }
     //to remove 
     public static int remove(){
